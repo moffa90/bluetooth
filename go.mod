@@ -1,4 +1,4 @@
-module github.com/moffa90/bluetooth
+module tinygo.org/x/bluetooth
 
 go 1.15
 
